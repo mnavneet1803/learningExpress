@@ -1,5 +1,0 @@
-const {num,obj,index}=require("./../../../folderX/folderY/folderZ/index")
- const {nu} = require("./ind")
-console.log(num)
-console.log(obj)
-index(nu)
